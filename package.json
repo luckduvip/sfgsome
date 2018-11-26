@@ -1,0 +1,22 @@
+{
+  "name": "sfgsome",
+  "version": "1.0.0",
+  "description": "sfg some thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckduvip/sfgsome.git"
+  },
+  "keywords": [
+    "sfg"
+  ],
+  "author": "luckduvip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckduvip/sfgsome/issues"
+  },
+  "homepage": "https://github.com/luckduvip/sfgsome#readme"
+}
